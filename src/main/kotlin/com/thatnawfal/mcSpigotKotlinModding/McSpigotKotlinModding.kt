@@ -5,7 +5,9 @@ import org.bukkit.plugin.java.JavaPlugin
 class McSpigotKotlinModding : JavaPlugin() {
 
     override fun onEnable() {
-        // Plugin startup logic
+
+
+
     }
 
     override fun onDisable() {
