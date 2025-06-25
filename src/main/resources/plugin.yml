@@ -1,0 +1,6 @@
+name: mc-spigot-kotlin-modding
+version: '1.0-SNAPSHOT'
+main: com.thatnawfal.mcSpigotKotlinModding.McSpigotKotlinModding
+api-version: '1.21'
+authors: [ nawfal ]
+description: trying to learn java tutorial while using kotlin
